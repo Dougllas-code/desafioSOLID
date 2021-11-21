@@ -59,7 +59,7 @@ Para esse desafio, temos os seguintes testes:
 
 ```json
 {
-	id: string;
+  id: string;
 
   name: string;
 
